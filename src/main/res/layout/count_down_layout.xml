@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/count_down_bg">
+    <TextView
+        android:gravity="center"
+        android:id="@+id/count_down_tv_1"
+        android:textSize="35sp"
+        android:textColor="#ffffff"
+        android:layout_width="@dimen/count_down_w"
+        android:layout_height="@dimen/count_down_h" />
+    <TextView
+        android:gravity="center"
+        android:id="@+id/count_down_tv_2"
+        android:textSize="35sp"
+        android:textColor="#ffffff"
+        android:layout_width="@dimen/count_down_w"
+        android:layout_height="@dimen/count_down_h" />
+
+</RelativeLayout>
