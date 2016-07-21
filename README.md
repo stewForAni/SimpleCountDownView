@@ -6,14 +6,7 @@ If you have any questions,let me know : )       stewforani@gmail.com
 
 #### Results show
 
-```
 ![image](https://github.com/stewForAni/SimpleCountDownView/blob/master/gif%20or%20pic/countdown.gif)   
-```
-
-
-
-
-
 
 #### Usage
 
