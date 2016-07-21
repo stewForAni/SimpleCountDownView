@@ -1,18 +1,18 @@
 ## SimpleCountDownView
 
-A simple countdown view with translation animation (not highiy precise).
+A simple countdown view with translation animation (not highly precise).
 
 If you have any questions,let me know : )       stewforani@gmail.com
 
-#### Results show
+### Results show
 
 ![image](https://github.com/stewForAni/SimpleCountDownView/blob/master/gif%20or%20pic/countdown.gif)   
 
-#### Usage
+### Usage
 
 You can just copy my java code   **CountDownView**   inito your project.
 
-##### Add this to your xml file :
+#### Add this to your xml file :
 
 ```
  <com.example.countdownview.CountDownView
@@ -24,7 +24,7 @@ You can just copy my java code   **CountDownView**   inito your project.
 
 
 
-##### Just call fowlling methods to set countdownview :
+#### Just call fowlling methods to set countdownview :
 
 1) set the time when to start and to end.
 
