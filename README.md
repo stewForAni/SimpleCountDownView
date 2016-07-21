@@ -1,14 +1,14 @@
 ## SimpleCountDownView
 
-A simple countdown view with translation animation (not highly precise).
+A simple countdown view with translation animation (not highly accurate).
 
 If you have any questions,let me know : )       stewforani@gmail.com
 
-### Results show
+## Results show
 
 ![image](https://github.com/stewForAni/SimpleCountDownView/blob/master/gif%20or%20pic/countdown.gif)   
 
-### Usage
+## Usage
 
 You can just copy my java code   **CountDownView**   inito your project.
 
