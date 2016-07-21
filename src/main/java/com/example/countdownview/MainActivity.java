@@ -22,19 +22,24 @@ public class MainActivity extends AppCompatActivity {
         //setCountDownViewListener(countDownView3);
         //setCountDownViewListener(countDownView4);
 
+
         countDownView1.setTime(5, 0);
+        countDownView1.setBackgroundResource(R.drawable.count_down_bg);
         countDownView1.setAnimationStyle(CountDownView.FROM_TOP);
 
 
         countDownView2.setTime(5, 0);
+        countDownView2.setBackgroundResource(R.drawable.count_down_bg);
         countDownView2.setAnimationStyle(CountDownView.FROM_BOTTOM);
 
 
         countDownView3.setTime(5, 0);
+        countDownView3.setBackgroundResource(R.drawable.count_down_bg);
         countDownView3.setAnimationStyle(CountDownView.FROM_LEFT);
 
 
         countDownView4.setTime(5, 0);
+        countDownView4.setBackgroundResource(R.drawable.count_down_bg);
         countDownView4.setAnimationStyle(CountDownView.FROM_RIGHT);
 
         countDownView1.postDelayed(new Runnable() {
