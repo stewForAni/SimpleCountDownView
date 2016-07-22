@@ -1,6 +1,6 @@
 ## SimpleCountDownView
 
-A simple countdown view with translation animation (not highly accurate).
+A simple countdown view with translation animation.
 
 If you have any questions,let me know    : )     stewforani@gmail.com
 
