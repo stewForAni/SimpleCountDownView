@@ -10,7 +10,7 @@ If you have any questions,let me know : )       stewforani@gmail.com
 
 ## Usage
 
-You can just copy my java code   **CountDownView**   inito your project.
+You can just copy my java code   **CountDownView**   into your project.
 
 #### Add this to your xml file :
 
@@ -52,8 +52,11 @@ countDownView.setTime(NumFrom, NumTo);
 
 ```
 countDownView.setAnimationStyle(CountDownView.FROM_TOP);
+
 countDownView.setAnimationStyle(CountDownView.FROM_BOTTOM);
+
 countDownView.setAnimationStyle(CountDownView.FROM_LEFT);
+
 countDownView.setAnimationStyle(CountDownView.FROM_RIGHT);
 ```
 
