@@ -2,7 +2,7 @@
 
 A simple countdown view with translation animation.
 
-If you have any questions,let me know    : )     stewforani@gmail.com
+If you have any questions,let me know    ~ ~ ~ ~   stewforani@gmail.com
 
 ## Results show
 
