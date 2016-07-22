@@ -2,7 +2,7 @@
 
 A simple countdown view with translation animation (not highly accurate).
 
-If you have any questions,let me know : )       stewforani@gmail.com
+If you have any questions,let me know    : )     stewforani@gmail.com
 
 ## Results show
 
@@ -26,13 +26,13 @@ You can just copy my java code   **CountDownView**   into your project.
 
 #### Just call fowlling methods to set countdownview :
 
-1) set the time when to start and to end.
+1) set the time when to start and end.
 
 ```
 countDownView.setTime(NumFrom, NumTo);
 ```
 
-2) add listener to CountDownView (time start and end).
+2) add listener to CountDownView.
 
 ```
  countDownView.setOnTimeListener(new CountDownView.OnTimeListener() {
